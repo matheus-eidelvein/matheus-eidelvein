@@ -3,7 +3,9 @@
 ## Sobre Mim
 
 -👋 Olá! Sou Matheus H., um entusiasta de programação, leitura e autodesenvolvimento.
+
 -🎯 Meu foco está em áreas como hacker ético, cibersegurança.
+
 -🚀 Atualmente estudando IA e Machine Learning.
 
 📚 Livros Recomendados:
@@ -19,5 +21,7 @@
 ## Contato
 
 -📧 Email: [matheus.ptes@gmail.com](mailto:matheus.ptes@gmail.com)
+
 -🔗 LinkedIn: [Matheus H. no LinkedIn](https://www.linkedin.com/in/matheus-henrique-7b2689240/)
+
 -💻 GitHub: [matheus-eidelvein](https://github.com/matheus-eidelvein)
