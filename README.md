@@ -19,5 +19,7 @@
 ## Contato
 
 📧 Email: [matheus.ptes@gmail.com](mailto:matheus.ptes@gmail.com)
+
 🔗 LinkedIn: [Matheus H. no LinkedIn](https://www.linkedin.com/in/matheus-henrique-7b2689240/)
+
 💻 GitHub: [matheus-eidelvein](https://github.com/matheus-eidelvein)
