@@ -2,9 +2,9 @@
 
 ## Sobre Mim
 
-- 👋 Olá! Sou Matheus H., um entusiasta de programação, leitura e autodesenvolvimento.
-- 🎯 Meu foco está em áreas como hacker ético, cibersegurança.
-- 🚀 Atualmente estudando IA e Machine Learning.
+- 👋 Entusiasta de programação, leitura e autodesenvolvimento.
+- 🎯 Foco em áreas como hacker ético, cibersegurança.
+- 🚀 Estudando IA e Machine Learning.
 
 📚 Livros Recomendados:
 
