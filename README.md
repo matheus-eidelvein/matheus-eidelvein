@@ -13,7 +13,6 @@ Atuo no desenvolvimento de soluções voltadas à automação de processos, inte
 * Utilização de **Docker** e ambientes Linux para execução e gerenciamento de aplicações
 * Desenvolvimento e experimentação com **IA, LLMs e RAG**
 * Estudos em **pentest, segurança ofensiva e segurança de aplicações**
-* Interesse contínuo por arquitetura de software, infraestrutura e segurança
 
 ## 🔐 Cibersegurança
 
@@ -31,7 +30,7 @@ O objetivo é desenvolver uma visão completa de segurança, entendendo tanto **
 
 ## 🛠️ Tecnologias e ferramentas
 
-`Python` · `FastAPI` · `Docker` · `Git` · `GitHub Actions` · `Linux` · `PowerShell` · `n8n` · `RPA` · `REST APIs` · `SQL` · `MongoDB` · `PostgreSQL` · `LLMs` · `RAG`
+`Python` · `FastAPI` · `Docker` · `Git` · `GitHub Actions` · `Linux` · `PowerShell` · `n8n` · `RPA` · `REST APIs` · `SQL` · `MongoDB` · `PostgreSQL` · `LLMs` · `RAG` · `Kali` 
 
 ## 📚 Biblioteca
 
