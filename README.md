@@ -38,7 +38,6 @@ Alguns livros que fazem parte dos meus estudos e interesses:
 
 ### Segurança & Hacking
 
-* **Técnicas de Invasão** — Bruno Fraga
 * **Black Hat Python, 2ª edição** — Justin Seitz & Tim Arnold
 * **The Web Application Hacker's Handbook** — Dafydd Stuttard & Marcus Pinto
 * **The Hacker Playbook 3** — Peter Kim
